@@ -1,0 +1,12 @@
+{
+ "available-types" : [	"Sliding Mesh", 
+			"Constant Mesh",
+			"6-speed gearbox",
+		      ],
+"applications" : [ 
+		   "Automobiles",
+		   "Racing cars",
+		   "Trucks",
+		 ]
+}
+		      
