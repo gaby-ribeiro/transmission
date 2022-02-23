@@ -1,0 +1,12 @@
+"available-types" : [  "Sliding Mesh", 
+                        "Constant Mesh",
+                        "5-speed gearbox",
+                        "4WD Off-road"
+                      ],
+"applications" : [ 
+                   "Automobiles",
+                   "Racing cars",
+                   "Trucks",
+                   "Jeep cars"
+                 ]
+}
