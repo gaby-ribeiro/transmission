@@ -1,0 +1,18 @@
+{
+ "available-types" : [	"Pulley-based", 
+			"Toroidal",
+			"Ratcheting",
+			"Hydrostatic/hydraulic",
+			"Electric",
+			"Cone",
+			"Epicyclic",
+			"IVT"
+		      ],
+"applications" : [ 
+		   "Automobiles",
+		   "Racing cars",
+		   "Farm equipament",
+		   "Power generation systems"
+		 ]
+}
+		      
